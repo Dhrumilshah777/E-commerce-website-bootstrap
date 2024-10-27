@@ -1,0 +1,43 @@
+@media (max-width:1399px) {
+
+}
+@media (max-width:1199px) {
+.navbar-main nav ul li a{
+    display: none;
+}
+.banner-main .banner-detail h2{
+    font-size: 54px;
+}
+.banner-main .banner-detail p{
+    font-size: 13px;
+}
+.swiper-slide img{
+    width: 450px;
+}
+
+}
+@media (max-width:991px) {
+.banner-main .banner-detail h2{
+    font-size: 54px;
+}
+.banner-main .banner-detail p{
+    font-size: 13px;
+}
+.swiper-wrapper{
+    margin-left: -130px;
+}
+}
+@media (max-width:767px) {
+.banner-main .banner-detail h2{
+    font-size: 40px;
+}
+.banner-main .banner-detail p{
+    font-size: 11px;
+}
+.swiper-wrapper{
+    margin-left:-10px;
+}
+}
+@media (max-width:575px) {
+
+}

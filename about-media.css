@@ -1,0 +1,16 @@
+@media (max-width:1199px) {
+    /* .navbar-main nav ul li a{
+        display: none;
+    } */
+}
+@media (max-width:768px) {
+    #box{
+        height: 700px;
+    }
+}
+
+@media (max-width:576px) {
+    #box{
+        height: 1800px;
+    }
+}
